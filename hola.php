@@ -1,4 +1,5 @@
 <?php
-echo “Amancio Ortega\n”;
+echo "hola $nombre\n";
 ?>
+
 
